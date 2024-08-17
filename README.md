@@ -1,1 +1,1 @@
-A caloura aqui mau sabe o que ta fazendo, porem, esse foi o primeiro trabalho feito em python de ADS, apenas 4 exercícios usando poucas funções e tive algumas dificuldades já que o conteúdo das aulas foram bem resumidos e eu havia odiado a didática do professor, ainda tem muita coisa confusa na minha cabeça sobre todo o universo da programação mas eu continuo super interessada e mau posso esperar pelo momento de estar fera em tudo
+Uns dos meus primeiros trabalhos em Python na diciplina de lógica de programação e algoritmos. ADS - 2024
